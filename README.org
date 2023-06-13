@@ -1,0 +1,10 @@
+* wasm-encoder
+
+Simple library for generating binary WebAssembly files
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alex-gutev/wasm-encoder.git   |
+| commit  | 22f8f0f  |
+| systems | wasm-encoder |
+|---------+-------------------------------------------|
+
