@@ -8,3 +8,4 @@ Simple library for generating binary WebAssembly files
 | systems | wasm-encoder |
 |---------+-------------------------------------------|
 
+ 
